@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">WeChatAccessibility</string>
     <string name="accessibility_description">accessibility_description</string>
+    <string name="name_hint">请输入您想要视频的人的名字</string>
+    <string name="OK">OK</string>
+    <string name="name_cannot_null">不能为空</string>
 </resources>
